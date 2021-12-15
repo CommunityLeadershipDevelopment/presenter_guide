@@ -8,4 +8,4 @@
 ## 现场Present参考
 
 ## 参考资料：
-一些开源大会对speaker的参考资料
+[一些开源大会对speaker的参考资料](reference.md)
