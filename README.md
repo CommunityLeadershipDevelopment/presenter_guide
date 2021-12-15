@@ -10,7 +10,8 @@
 ## 参考资料：
 [一些开源大会对speaker的参考资料](reference.md)
 
-## 欢迎加入开源项目技术传播社区
-二维码如下，欢迎大家扫码加入，和我们一起讨论开源项目技术传播的事情，包括技术文档协作，技术线上和线下布道等等。
+## 如何贡献
+本项目欢迎贡献
 
-<img src="images/Wechatgroup.jpeg" height="150px" width="150px">
+## Code of Conduct
+本项目遵守[ASF行为规范](https://www.apache.org/foundation/policies/conduct)
