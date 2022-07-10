@@ -13,6 +13,8 @@
 ## 参考资料：
 [一些开源大会对speaker的参考资料](reference.md)
 
+[如何做好线上技术演讲-2022年7月10日 Apachecon Asia 热身分享 by 谭中意](https://github.com/CommunityLeadershipDevelopment/presenter_guide/blob/main/%E5%A6%82%E4%BD%95%E4%BD%9C%E5%A5%BD%E7%BA%BF%E4%B8%8A%E6%8A%80%E6%9C%AF%E6%BC%94%E8%AE%B2.pptx)
+
 ## 如何贡献
 本项目欢迎贡献
 
